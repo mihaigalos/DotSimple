@@ -1,0 +1,11 @@
+*.b#*
+*.s#*
+*.G*
+*.T*
+*.dri
+*.gpi
+*.xln
+*.tar.gz
+*.job
+*.pro
+*.zip
